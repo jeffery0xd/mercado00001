@@ -5,5 +5,5 @@ pages_build_output_dir = "dist"
 [env.production]
 name = "mexico-ecommerce-site"
 
-[env.staging]
-name = "mexico-ecommerce-site-staging"
+[env.preview]
+name = "mexico-ecommerce-site-preview"
